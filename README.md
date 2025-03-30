@@ -1,9 +1,11 @@
 <div style="text-align: center">
 <img src="./wizard.gif">
 <img src="./wizard.gif">
+<img src="./wizard.gif">
+<img src="./wizard.gif">
 </div>
 
-Hola ¡Soy Valentin Manini!
+### Hola ¡Soy Valentin Manini!
 
 - Soy Fundametalista de las funciones. 
 
